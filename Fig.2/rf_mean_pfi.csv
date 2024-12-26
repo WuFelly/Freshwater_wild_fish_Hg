@@ -1,0 +1,14 @@
+"","variable","mean_pfi"
+"1","Collection_year",0.437038738981232
+"2","Potential_evaporation_m",0.427930990498794
+"3","Precipitation_yearsum_mm",0.409109680620561
+"4","Surface_net_downward_shortwave_flux",0.414474014602812
+"5","Ten_metre_wind_speed",0.402026178441292
+"6","Trophic_class",0.391956698052513
+"7","Trophic_level",0.461775541473734
+"8","Two_m_temperature_yearmax_runmean_K",0.487959278155085
+"9","_baseline_",0.840997115933943
+"10","_full_model_",0.386517192799278
+"11","log_ch4_em",0.447508084664067
+"12","log_hg_em_lag2",0.434717365098962
+"13","log_weight",0.44372770276691

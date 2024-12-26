@@ -1,0 +1,16 @@
+"","variable","mean_pfi"
+"1","Collection_year",0.537056157992201
+"2","Potential_evaporation_m",0.500668060436289
+"3","Precipitation_yearsum_mm",0.504143266004406
+"4","Surface_net_downward_shortwave_flux",0.487056934859177
+"5","Ten_metre_wind_speed",0.511489411518954
+"6","Trophic_class_Carnivore",0.437163149698544
+"7","Trophic_class_Herbivore",0.440702866247573
+"8","Trophic_class_Omnivore",0.431898397572467
+"9","Trophic_level",0.559000851036759
+"10","Two_m_temperature_yearmax_runmean_K",0.563674175221298
+"11","_baseline_",0.87091769745559
+"12","_full_model_",0.436144537464161
+"13","log_ch4_em",0.478517133489535
+"14","log_hg_em_lag2",0.554847880489865
+"15","log_weight",0.543733673609739
